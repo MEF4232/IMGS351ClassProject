@@ -1,5 +1,9 @@
 # IMGS351ClassProject
-IMGS.351.01 - Fundamentals of Color Science taught by Jim Ferwerda
+IMGS.351.01 - Fundamentals of Color Science
+
+Taught by Jim Ferwerda
+
+Partnered with [Kevin Arnett](https://github.com/KevKode)
 
 Project 1:
 * Instructions https://github.com/MEF4232/IMGS351ClassProject/blob/master/project1_color_problem.key.pdf
